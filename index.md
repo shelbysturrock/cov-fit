@@ -1,6 +1,6 @@
 ## Welcome to the COV-FIT study
 
-![Image](/cov-fit/COV-FIT STUDY logo 2022-06-06.png)
+![Image](/cov-fit/docs/COV-FIT STUDY logo 2022-06-06.png)
 
 The goal of this study is to **describe the impact of the COVID-19 pandemic on adult physical activity in Canada**. 
 
