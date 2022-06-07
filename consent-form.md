@@ -1,6 +1,8 @@
+---
 layout: page
-title: "PAGE TITLE"
-permalink: /URL-PATH/
+title: "consent-form"
+permalink: /consent-form/
+---
 
 ## COV-FIT STUDY: CONSENT FORM
 
