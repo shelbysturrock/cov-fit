@@ -1,1 +1,3 @@
-## COV-FIT: PRIVACY POLICY
+## COV-FIT STUDY: PRIVACY POLICY
+
+Content pending
