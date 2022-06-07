@@ -18,8 +18,8 @@ This study will use data from participant Apple Watches and complementary survey
 
 ### Learn more
 
-- [Information letter and consent form] (https://www.shelbysturrock.com/cov-fit/consent-form/)
-- Privacy policy ([Link](url))
+- [Information letter and consent form](https://www.shelbysturrock.com/cov-fit/consent-form)
+- [Privacy policy](url)
 
 ### Questions?
 
