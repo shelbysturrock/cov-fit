@@ -1,3 +1,7 @@
+layout: page
+title: "PAGE TITLE"
+permalink: /URL-PATH/
+
 ## COV-FIT STUDY: CONSENT FORM
 
 ### Information Letter and Consent Form
