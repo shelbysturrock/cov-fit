@@ -1,8 +1,9 @@
-## Welcome to the COV-FIT study
+## The COV-FIT study
 
 <img align="center" src="/cov-fit/docs/assets/logo.png">
 
-<img align="center" src="/cov-fit/docs/assets/uoftLogo.ai" width="200">'
+<img align="center" src="/cov-fit/docs/assets/uoftLogo.ai" width="175">'
+
 <br clear="center"/>
 
 The goal of this study is to **describe the impact of the COVID-19 pandemic on adult physical activity in Canada**. 
