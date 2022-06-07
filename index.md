@@ -1,8 +1,6 @@
 ## Welcome to the COV-FIT study
 
 <img align="center" src="/cov-fit/docs/assets/logo.png">
-![App Logo](/cov-fit/docs/assets/logo.png)
-![UofT Logo](/cov-fit/docs/assets/uoftLogo.ai)
 <img align="center" src="/cov-fit/docs/assets/uoftLogo.ai" width="200">'
 <br clear="center"/>
 
