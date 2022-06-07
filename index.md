@@ -1,5 +1,6 @@
 ## The COV-FIT study
 
+![App Logo](/cov-fit/docs/assets/logo.png)
 <img align="center" src="/cov-fit/docs/assets/logo.png">
 
 <br clear="center"/>
