@@ -1,12 +1,16 @@
 ## The COV-FIT study
 
-<img align="center" src="/cov-fit/docs/assets/uoftLogo.ai" width="200">'
+<img align="center" src="/cov-fit/docs/assets/logo.png">
 
 <br clear="center"/>
 
 The goal of this study is to **describe the impact of the COVID-19 pandemic on adult physical activity in Canada**. 
 
 This research is being conducted by Shelby Sturrock (Epidemiology PhD Candidate, University of Toronto), Dr. Dionne Gesink (University of Toronto) and Dr. Daniel Fuller (University of Saskatchewan). The study has received ethics approval by the University of Toronto Health Sciences Research Ethics Board (RIS Protocol #42166).
+
+<img align="center" src="/cov-fit/docs/assets/uoftLogo.ai" width="200">'
+
+<br clear="center"/>
 
 ### About the study
 This study will use data from participant Apple Watches and complementary survey to better understand if and how physical activity changed during the COVID-19 pandemic, and whether those trends were sustained over time or differed between groups of people. Participants will be asked to share select movement data recorded by their Apple Watch and complete a survey. 
