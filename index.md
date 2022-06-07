@@ -21,6 +21,9 @@ This study will use data from participant Apple Watches and complementary survey
 - Information letter and consent form ([Link](url))
 - Privacy policy ([Link](url))
 
-[Link](url) and ![Image](src)
+### Questions?
 
+Please send any questions about the study to Shelby Sturrock at shelby.sturrock@mail.utoronto.ca
+
+**Thank you!**
 
