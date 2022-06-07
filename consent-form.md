@@ -1,9 +1,3 @@
----
-layout: page
-title: "consent-form"
-permalink: /consent-form/
----
-
 ## COV-FIT STUDY: CONSENT FORM
 
 ### Information Letter and Consent Form
