@@ -1,4 +1,4 @@
-## COVFIT STUDY: REB APPROVAL LETTER
+## The COVFIT study: REB approval letter
 
 [COVFIT study home page](https://www.covfitstudy.ca)
 
