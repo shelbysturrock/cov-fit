@@ -2,6 +2,8 @@
 
 [COVFIT study home page](https://www.shelbysturrock.com/covfit/)
 
+[PDF version of Information Letter and Consent Form for download](https://www.shelbysturrock.com/covfit/consent-PDF)
+
 ### Information Letter and Consent Form
 
 **Welcome** <br/>
