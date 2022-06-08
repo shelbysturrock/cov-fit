@@ -20,9 +20,9 @@ This study will use data from participant Apple Watches and complementary survey
 
 ### Learn more
 
-- [Information letter and consent form](https://www.shelbysturrock.com/covfit/consent-form)
-- [Privacy policy](https://www.shelbysturrock.com/covfit/privacy-policy)
-- [Research Ethics Board approval letter](https://www.shelbysturrock.com/covfit/REB-approval)
+- [Information letter and consent form](https://www.covfitstudy.ca/consent-form)
+- [Privacy policy](https://www.covfitstudy.ca/privacy-policy)
+- [Research Ethics Board approval letter](https://www.covfitstudy.ca/REB-approval)
 
 ### Questions?
 
