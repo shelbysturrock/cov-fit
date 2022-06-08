@@ -1,8 +1,8 @@
 ## COVFIT STUDY: CONSENT FORM
 
-[COVFIT study home page](https://www.shelbysturrock.com/covfit/)
+[COVFIT study home page](https://www.covfitstudy.ca)
 
-[PDF version of Information Letter and Consent Form for download](https://www.shelbysturrock.com/covfit/consent-PDF)
+[PDF version of Information Letter and Consent Form for download](https://www.covfitstudy.ca/consent-PDF)
 
 ### Information Letter and Consent Form
 
