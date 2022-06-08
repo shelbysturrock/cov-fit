@@ -1,6 +1,6 @@
 ## COVFIT STUDY: CONSENT FORM
 
-[Home](https://www.shelbysturrock.com/covfit/index)
+[COVFIT study home page](https://www.shelbysturrock.com/covfit/index)
 
 ### Information Letter and Consent Form
 
