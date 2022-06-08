@@ -1,4 +1,4 @@
-## COV-FIT STUDY: CONSENT FORM
+## COVFIT STUDY: CONSENT FORM
 
 ### Information Letter and Consent Form
 
@@ -9,7 +9,7 @@ The COVID-19 pandemic has disrupted many aspects of our lives, including the tim
 You are eligible to participate if you are 18 years of age or older and live in Canada. 
 
 **What will your participation involve?**
-First, you will be asked to download the COV-FIT study mobile application from the Apple App Store. All data collection will occur within the app. 
+First, you will be asked to download the COVFIT study mobile application from the Apple App Store. All data collection will occur within the app. 
 
 If you decide to participate, you will be asked to provide access to your **historic Apple Watch activity data** (up until yesterday), including a log of your exercise minutes, energy expenditure, heart rate, step count, and distance travelled, as well as your daily activity goals, workout records and the number of hours you wore your Apple Watch each day. Location data **will not** be collected. 
 
