@@ -1,3 +1,5 @@
+<link rel="shortcut icon" type="image/x-icon" href="docs/assets/favicon.ico">
+
 ## The COVFIT study
 
 The goal of this study is to **describe the impact of the COVID-19 pandemic on adult physical activity in Canada**. 
