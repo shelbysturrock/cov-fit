@@ -1,4 +1,4 @@
-## COVFIT STUDY: CONSENT FORM
+## COVFIT study: Consent form
 
 [COVFIT study home page](https://www.covfitstudy.ca)
 
