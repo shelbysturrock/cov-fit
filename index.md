@@ -7,6 +7,7 @@ This research is being conducted by Shelby Sturrock (Epidemiology PhD Candidate,
 _The COVFIT study has received ethics approval by the University of Toronto Health Sciences Research Ethics Board (RIS Protocol #42166)._
 
 ![University of Toronto logo](/covfit/docs/assets/uoftLogo.ai)
+![University of Toronto logo](/covfit/docs/assets/uoftLogo.png)
 
 ### About the study
 This study will use data from participant Apple Watches and complementary survey to better understand if and how physical activity changed during the COVID-19 pandemic, and whether those trends were sustained over time or differed between groups of people. Participants will be asked to share select movement data recorded by their Apple Watch and complete a survey. 
