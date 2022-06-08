@@ -1,4 +1,4 @@
-## COVFIT STUDY: PRIVACY POLICY
+## The COVFIT study: Privacy policy
 
 [COVFIT study home page](https://www.covfitstudy.ca)
 
