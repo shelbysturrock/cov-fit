@@ -1,6 +1,6 @@
 ## COVFIT STUDY: PRIVACY POLICY
 
-[COVFIT study home page](https://www.shelbysturrock.com/covfit/)
+[COVFIT study home page](https://www.covfitstudy.ca)
 
 The COVFIT research team built the COVFIT app as a free app intended to support the COVFIT research study. This study has been approved by the University of Toronto Health Sciences Research Ethics Board (REB) (RIS Protocol #42166). This app is provided by researchers at University of Toronto at no cost and is intended for use as is. Use of this app is meant only for participants of the COVFIT research study who have already provided informed consent.
 
