@@ -29,10 +29,10 @@ Your participation is completely voluntary. You can refuse to participate. You c
 
 Please note that you will not be able to withdraw your fitness or survey data once it has been submitted. This is because we are not collecting your personal information, and therefore we won’t be able to identify your data in the database.  
 
-**What are the Risks?** <br/>
+**What are the risks?** <br/>
 Some of the survey questions are personal in nature and ask about your health, wellbeing and family life, which may raise complex emotions depending on your experiences.  If you feel distressed or other uncomfortable emotions, you have the choice to stop participating, take a break, or continue.  We have a list of community resources if you think you need additional help after completing the survey.
 
-**What are the Benefits?** <br/>
+**What are the benefits?** <br/>
 Although there are no direct benefits to you as an individual, your data will help us understand how physical activity levels of Canadian adults changed throughout the pandemic, as well as if/how trends over time differed between population groups (e.g., younger vs. older adults, those who experienced changes in their employment status or work environment, etc.). This will help us develop targeted programs aimed at increasing physical activity among groups that are more likely to remain impacted today. 
 
 **Have questions about the study?** Please contact the Principal Investigator, Shelby Sturrock, by email: shelby.sturrock@mail.utoronto.ca or call: 416-978-5869
