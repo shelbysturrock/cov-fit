@@ -15,7 +15,7 @@ You are eligible to participate if you are 18 years of age or older and live in 
 **What will your participation involve?** <br/>
 First, you will be asked to download the COVFIT study mobile application from the Apple App Store. All data collection will occur within the app. 
 
-If you decide to participate, you will be asked to provide access to your **historic Apple Watch activity data** (up until yesterday), including a log of your exercise minutes, energy expenditure, heart rate, step count, and distance travelled, as well as your daily activity goals, workout records and the number of hours you wore your Apple Watch each day. Location data **will not** be collected. 
+If you decide to participate, you will be asked to provide access to your **historic Apple Watch smartwatch activity data** (up until yesterday), including a log of your exercise minutes, energy expenditure, heart rate, step count, and distance travelled, as well as your daily activity goals, workout records and the number of hours you wore your Apple Watch each day. Location data **will not** be collected. 
 
 You will also be asked to **complete a survey** about you, your physical activity before and during the pandemic, as well as factors that may have influenced how your behaviour changed during this period. 
 
@@ -62,3 +62,5 @@ Office of Research Ethics, 416-946-3273, ethics.review@utoronto.ca
 •	[CAMH (the Centre for Addiction and Mental Health): mental health and COVID-19](https://www.camh.ca/en/health-info/mental-health-and-covid-19) <br/>
 •	[Government of Canada: mental health support](https://www.canada.ca/en/public-health/services/mental-health-services/mental-health-get-help.html) <br/>
 •	[Government of Ontario: mental health resources](https://www.ontario.ca/page/find-mental-health-support) <br/>
+
+Apple Watch is a trademark of Apple Inc.
