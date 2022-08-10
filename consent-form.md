@@ -62,5 +62,3 @@ Office of Research Ethics, 416-946-3273, ethics.review@utoronto.ca
 •	[CAMH (the Centre for Addiction and Mental Health): mental health and COVID-19](https://www.camh.ca/en/health-info/mental-health-and-covid-19) <br/>
 •	[Government of Canada: mental health support](https://www.canada.ca/en/public-health/services/mental-health-services/mental-health-get-help.html) <br/>
 •	[Government of Ontario: mental health resources](https://www.ontario.ca/page/find-mental-health-support) <br/>
-
-Apple Watch is a trademark of Apple Inc.
