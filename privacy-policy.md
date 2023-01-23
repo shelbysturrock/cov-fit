@@ -45,7 +45,7 @@ Google has provided the following examples of stored device information collecte
 • A boolean indicating whether the device's proximity sensor was triggered <br/>
 
 Please refer to the following websites to review Google’s privacy and security terms for the Firebase service:
-https://firebase.google.com/support/privacy#crash-stored-info
+https://firebase.google.com/support/privacy#crash-stored-info <br/>
 https://firebase.google.com/terms/crashlytics
 
 **Changes to This Privacy Policy** <br/>
