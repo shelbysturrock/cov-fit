@@ -25,7 +25,7 @@ Remember that no method of transmission over the internet, or method of electron
 **Links to Other Sites** <br/>
 The COVFIT app may contain links to other sites and apps. If you click on a third-party link, you will be directed to that site or app. Note that these external sites and apps are not operated by us. Therefore, we strongly advise you to review the Privacy Policy of these websites and apps. We have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
 
-**Use of Third-Party Services*** <br/>
+**Use of Third-Party Services** <br/>
 The COVFIT Research Study app uses Firebase Crashlytics, a third-party service for collecting diagnostic reports that help us troubleshoot app crashes. In the rare circumstance that the COVFIT app crashes during use, a crash report may be sent to Firebase for us to review. Crash reports do not include your personal information, do not include your HealthKit data, and are not used for tracking purposes. 
 
 Google has provided the following examples of stored device information collected by Crashlytics: 
