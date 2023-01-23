@@ -25,6 +25,30 @@ Remember that no method of transmission over the internet, or method of electron
 **Links to Other Sites** <br/>
 The COVFIT app may contain links to other sites and apps. If you click on a third-party link, you will be directed to that site or app. Note that these external sites and apps are not operated by us. Therefore, we strongly advise you to review the Privacy Policy of these websites and apps. We have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
 
+**Use of Third-Party Services*** <br/>
+The COVFIT Research Study app uses Firebase Crashlytics, a third-party service for collecting diagnostic reports that help us troubleshoot app crashes. In the rare circumstance that the COVFIT app crashes during use, a crash report may be sent to Firebase for us to review. Crash reports do not include your personal information, do not include your HealthKit data, and are not used for tracking purposes. 
+
+Google has provided the following examples of stored device information collected by Crashlytics: 
+
+• An RFC-4122 UUID which permits us to deduplicate crashes
+• The timestamp of when the crash occurred
+• The app's bundle identifier and full version number
+• The device's operating system name and version number
+• A boolean indicating whether the device was jailbroken/rooted
+• The device's model name, CPU architecture, amount of RAM and disk space
+• The uint64 instruction pointer of every frame of every currently running thread
+• If available in the runtime, the plain-text method or function name containing each instruction pointer.
+• If an exception was thrown, the plain-text class name and message value of the exception
+• If a fatal signal was raised, its name and integer code
+• For each binary image loaded into the application, its name, UUID, byte size, and the uint64 base address at which it was loaded into RAM
+• A boolean indicating whether or not the app was in the background at the time it crashed
+• An integer value indicating the rotation of the screen at the time of crash
+• A boolean indicating whether the device's proximity sensor was triggered
+
+Please refer to the following websites to review Google’s privacy and security terms for the Firebase service:
+https://firebase.google.com/support/privacy#crash-stored-info
+https://firebase.google.com/terms/crashlytics
+
 **Changes to This Privacy Policy** <br/>
 We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately after they are posted on this page.
 
