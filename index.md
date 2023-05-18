@@ -14,6 +14,9 @@ This study will use data from participant Apple Watch smartwatches and complemen
 ### How to participate and what is involved
 The COVFIT study is no longer recruiting new participants. 
 
+### Study results
+Stay tuned to this website for updates about study results, academic presentations and peer-reviewed publications. 
+
 ### Learn more
 
 - [Information letter and consent form](https://www.covfitstudy.ca/consent-form)
