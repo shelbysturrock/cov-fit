@@ -12,11 +12,7 @@ This research is being conducted by Shelby Sturrock (Epidemiology PhD Candidate,
 This study will use data from participant Apple Watch smartwatches and complementary survey to better understand if and how physical activity changed during the COVID-19 pandemic, and whether those trends were sustained over time or differed between groups of people. Participants will be asked to share select movement data recorded by their Apple Watch smartwatch and complete a survey. 
 
 ### How to participate and what is involved
-1. [Download the COVFIT app from the Apple App Store](https://apps.apple.com/ca/app/covfit-research-study/id1629918729?fbclid=IwAR12lpaO5ANlQqVhq6jZstBl24mmAt2NRuAADl3XAy6LMII_p3roHrzJBXA)
-2. Read about the study and review the consent document before agreeing to participate. 
-3. Provide the app access to select physical activity metrics measured by your Apple Watch smartwatch. 
-4. Complete a survey (~15 minutes).
-5. Delete the app.
+The COVFIT study is no longer recruiting new participants. 
 
 ### Learn more
 
